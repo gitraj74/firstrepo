@@ -1,2 +1,4 @@
 Hey baby! I'm first file 1.txt
 
+Appended text
+
